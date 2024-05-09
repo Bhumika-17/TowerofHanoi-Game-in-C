@@ -1,1 +1,1 @@
-This is a simple game of Tower Of Hanoi in C language which uses basics of C programming language.
+This is a simple game of Tower Of Hanoi in C language which uses basic concepts of C programming language.
